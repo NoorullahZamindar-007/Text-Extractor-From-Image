@@ -11,7 +11,7 @@ markdown
 A simple and modern web application built with **Flask** that performs **Optical Character Recognition (OCR)** on uploaded images using **Tesseract OCR**. Upload an image, extract text, and display the results — all from your browser.
 
 ---
-
+ 
 ## 🚀 Features
 
 - 📸 Upload any image with text
