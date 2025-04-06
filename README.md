@@ -105,7 +105,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👨‍💻 Author
 
 **Norullah Zamindar**  
-Freelancer | Developer | AI Enthusiast  
+Data Scientest | Developer | AI Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/noorullah-zamindar-4975a328a/) • [GitHub](https://github.com/NoorullahZamindar-007)
 
 ---
@@ -120,8 +120,4 @@ If you like this project, please ⭐️ the repo to support the author and share
 
 ### 📝 Notes
 
-- Replace `your-username` with your GitHub username.
-- If you have a screenshot, save it in `static/demo/` and update the image link in the README.
-- Let me know if you want a version that supports multiple languages or PDF input too!
-
-Would you like me to package the whole project (code + README) into a ZIP ready for upload?
+- If you face with any issues please contact us using uper info 
