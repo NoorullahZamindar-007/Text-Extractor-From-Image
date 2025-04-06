@@ -49,7 +49,7 @@ ocr-flask-app/
 ### 1. Clone the repo
 
 bash
-git clone https://github.com/your-username/ocr-flask-app.git
+git clone https://github.com/NoorullahZamindar-007/Text-Extractor-From-Image
 cd ocr-flask-app
 
 
