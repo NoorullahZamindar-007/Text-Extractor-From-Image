@@ -25,7 +25,8 @@ A simple and modern web application built with **Flask** that performs **Optical
 
 ## 📸 Demo
 
-![OCR Flask App Screenshot](static/demo/ocr-app-screenshot.png) <!-- Optional: replace with your own screenshot -->
+![OCR Flask App Screenshot](Text-Extractor-From-Image/static/uploads
+/2.png) <!-- Optional: replace with your own screenshot -->
 
 --- 
 
