@@ -1,6 +1,5 @@
 # Text-Extractor-From-Image
 Text Extractor using Flask, OpenCV, Numpy
-Absolutely! Here's a clean, professional, and well-structured `README.md` file for your **OCR Flask App** — perfect for showcasing it on GitHub:
 
 ---
 
