@@ -33,13 +33,21 @@ A simple and modern web application built with **Flask** that performs **Optical
 
 
 ocr-flask-app/
+
 ├── app.py
+
 ├── templates/
+
 │   └── index.html
+
 ├── static/
+
 │   └── uploads/
+
 ├── requirements.txt
+
 └── README.md
+
 
 
 ---
