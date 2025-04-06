@@ -106,7 +106,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Norullah Zamindar**  
 Freelancer | Developer | AI Enthusiast  
-[LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/your-username)
+[LinkedIn](https://linkedin.com/) • [GitHub](https://github.com/NoorullahZamindar-007)
 
 ---
 
